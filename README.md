@@ -79,6 +79,4 @@ The frontend runs at `http://localhost:5173` and proxies API requests to `http:/
 - Domain-locked CORS
 - Request body size limits
 
-## License
 
-MIT
